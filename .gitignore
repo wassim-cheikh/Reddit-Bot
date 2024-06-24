@@ -1,2 +1,2 @@
-downloaded_files/
+downloaded_files/** 
 *.log
