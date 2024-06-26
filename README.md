@@ -17,7 +17,7 @@ Reddit-Bot is a Python bot designed to automate various actions on Reddit, inclu
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/Reddit-Bot.git
+   git clone [https://github.com/yourusername/Reddit-Bot.git](https://github.com/wassim-cheikh/Reddit-Bot)
    cd Reddit-Bot
 2. Install the required dependencies:
     pip install -r requirements.txt
